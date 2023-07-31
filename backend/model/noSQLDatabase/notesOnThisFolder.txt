@@ -1,0 +1,9 @@
+To be implemented.
+
+- To demonstrate the 'encapsulation' of the database implementation
+by the 'databaseFactory' and 'interface classes', that is, the code does not depend
+on the database, just on the classes and methods I defined, therefore I can change
+the database and libraries associated with it freely.
+
+- To demonstrate the usage of NoSQL db and associated libraries (probably going to 
+be MongoDB and Mongoose)

@@ -1,0 +1,6 @@
+This design isolates the database related implementation from the 
+rest of the code.
+
+- database.js exports the main class that gives access to the db functions.
+- databaseFactory creates database using config variables (to be implemented),
+it may return a SQL or noSQL database.
