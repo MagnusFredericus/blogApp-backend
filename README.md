@@ -1,9 +1,6 @@
-blogApp-backend
-
 REST API that implements the backend of a simple blog app. Automated end-to-end tests implemented.
 
-=== Features
-Users can:
+=== Features (user can)
 - Register, login and logout
 - Edit personal profile
 - Create, read, update, delete (CRUD) posts
